@@ -12,3 +12,7 @@ This project is a simple weather forecast website built using HTML, CSS, and Jav
 - **HTML:** Used for structuring the webpage and its content.
 - **CSS:** Styled the website to make it visually appealing and user-friendly.
 - **JavaScript:** Implemented functionality for fetching weather data from a weather API and dynamically updating the webpage.
+
+# Go Live
+
+Check out [Live](https://weather-forecast-one-gamma.vercel.app/)
